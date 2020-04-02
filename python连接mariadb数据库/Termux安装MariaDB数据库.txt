@@ -1,0 +1,20 @@
+04.02 20:50
+Termux安装MariaDB数据库
+Termux是一个Android下一个高级的终端模拟器, 开源且不需要root, 支持apt管理软件包，十分方便安装软件包, 完美支持Python, PHP, Ruby, Go, Nodejs,    MariaDB,   MySQL等。随着智能设备的普及和性能的不断提升，如今的手机、平板等的硬件标准已达到了初级桌面计算机的硬件标准, 用心去打造完全可以把手机变成一个强大的工具.
+
+MariaDB官网
+
+用MariaDB数据库代替mysql数据库
+
+
+https://mariadb.org/
+
+
+
+pkg  install   MariaDB  安装数据库
+
+
+Termux中文网
+
+http://www.termux.cn/
+
